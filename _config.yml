@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://irwinwilliams.github.io
+title: Irwin Williams, a blog
+email: irwin.williams@gmail.com
+author: Irwin Williams
+description: This is a blog.
+paginate: 10
+google_analytics: UA-26580532-3
