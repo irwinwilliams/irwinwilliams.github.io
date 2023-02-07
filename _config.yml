@@ -6,6 +6,7 @@ title: Irwin Williams, a blog
 email: irwin.williams@gmail.com
 author: Irwin Williams
 description: This is a blog.
-paginate: 10
+paginate: 20
 google_analytics: UA-26580532-3
 permalink: /:year/:month/:day/:title/
+theme: minimal-mistakes-jekyll
