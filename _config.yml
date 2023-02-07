@@ -9,4 +9,4 @@ description: This is a blog.
 paginate: 20
 google_analytics: UA-26580532-3
 permalink: /:year/:month/:day/:title/
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
