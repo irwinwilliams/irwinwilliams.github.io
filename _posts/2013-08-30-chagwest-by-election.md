@@ -1,13 +1,16 @@
 ---
-layout: post
-title: #ChagWest: by-election
-date: 2013-08-30 21:29
-author: irwinium
-comments: true
-categories: [chagwest, elections, microsoft, solution by simulation, Uncategorized, windows, windows phone]
+title: "#ChagWest: by-election"
+date: "2013-08-30"
+tags: 
+  - "chagwest"
+  - "elections"
+  - "microsoft"
+  - "solution-by-simulation"
+  - "windows"
+  - "windows-phone"
 ---
-<h1>Recently,  I worked with <a href="http://www.solutionbysimulation.com/" target="_blank">Solution By Simulation</a> to deliver election coverage results for the Trindad and Tobago Chaguanas West By-Election.</h1>
-<div class="post-bodycopy cf">
+
+# Recently,  I worked with [Solution By Simulation](http://www.solutionbysimulation.com/) to deliver election coverage results for the Trindad and Tobago Chaguanas West By-Election.
 
 This was a huge deal for me, having actually started election coverage tracking from the last Trinidad and Tobago Local Government elections in 2010.  At that time, I was at one of the party headquarters – the PNM’s Balisier House.  It was pretty near to my office. I sat with the media, and as results came in, used my app to publish the details to an RSS feed.
 
@@ -17,10 +20,6 @@ On election night – July 29, 2013, we had agents in the field as well as Nigel
 
 Oh, the picture quality is pretty horrible because my phone’s camera is pretty lame.
 
-Also, at the last moment before our team went on the road, we got support from the local Microsoft Office in the form of Windows 8 and Window Phone 8 devices.  Allowing us to say on air, “Communication Devices powered by Windows 8 &amp; Windows Phone 8 Devices”, thanks, Microsoft!
+Also, at the last moment before our team went on the road, we got support from the local Microsoft Office in the form of Windows 8 and Window Phone 8 devices.  Allowing us to say on air, “Communication Devices powered by Windows 8 & Windows Phone 8 Devices”, thanks, Microsoft!
 
-Here’s a <a title="really nice tweet" href="https://twitter.com/mauriceduncan/status/360954141884944385" target="_blank">really nice tweet </a>that drove home what we aimed to do during the evening.
-
-&nbsp;
-
-</div>
+Here’s a [really nice tweet](https://twitter.com/mauriceduncan/status/360954141884944385 "really nice tweet") that drove home what we aimed to do during the evening.

@@ -1,11 +1,9 @@
 ---
-layout: post
-title: Remember, remember! The fifth of November
-date: 2015-11-20 04:24
-author: irwinium
-comments: true
-categories: [Uncategorized]
+title: "Remember, remember! The fifth of November"
+date: "2015-11-20"
+coverImage: "teleioscodejam2015-45.jpg"
 ---
+
 This year's Teleios Code Jam Finals was November 5.
 
 We spent time again bringing light to the ideas around the Internet of Things.  It was a great event, really strong presentations were brought. Our winners, Team BlackIce demonstrated OceanGuard, an IoT solution for monitoring environmental data about the ocean.

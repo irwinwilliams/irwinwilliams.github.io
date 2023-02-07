@@ -1,11 +1,12 @@
 ---
-layout: post
-title: My Programming Journey
-date: 2015-12-12 00:25
-author: irwinium
-comments: true
-categories: [beginnings, Tracks, Uncategorized]
+title: "My Programming Journey"
+date: "2015-12-12"
+categories: 
+  - "tracks"
+tags: 
+  - "beginnings"
 ---
+
 It started with a letter in 1996.
 
 My grandmother was at the time asking me about career ideas. I told her Computer Science. I didn't really know what it was. It just seemed to put together two of my likes at the time, Computers and Science.
@@ -34,7 +35,7 @@ From the lab, a team, the Campus Pipeline (CP) team, was assembled. Another bunc
 
 My only tools were the javadocs, two courses on intro to Java, google and what was like a blackbox of magic at the time, a jar file made by one of our lecturers, I think Mr. Sheik, cs11.jar.
 
-We were so new to programming, it took a long time for the incantation, "public static void main(String[] args)" to even make sense. It was just what you put to get JCreator to do the thing.
+We were so new to programming, it took a long time for the incantation, "public static void main(String\[\] args)" to even make sense. It was just what you put to get JCreator to do the thing.
 
 As it turns out the xml problem was just string operations (in my mind at the time). We had no end of assignments that was open a file, do a thing, then make another file.
 
@@ -61,5 +62,3 @@ My final project involved mysql, php and more upgrading.  Another site, the Mai
 I spent my last year, realizing that as good as it felt to write those kind of solutions, the Design and Analysis of Algorithms required time, reading and deep thought.
 
 I graduated in 2005 and started working at Teleios Systems that year.
-
-&nbsp;
