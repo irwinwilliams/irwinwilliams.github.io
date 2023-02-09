@@ -9,7 +9,12 @@ description: This is a blog. It's Irwin's.
 paginate: 20
 google_analytics: UA-26580532-3
 permalink: /:year/:month/:day/:title/
-theme: "henry"
+
+# Build settings
+theme: henry-jekyll
+markdown: kramdown
+highlighter: rouge
+encoding: utf-8
 # Jekyll Plugins Necessary for GH Pages
 plugins:
   - jekyll-feed
