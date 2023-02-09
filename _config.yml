@@ -5,8 +5,17 @@ url: http://irwinwilliams.github.io
 title: Irwin Williams, a blog
 email: irwin.williams@gmail.com
 author: Irwin Williams
-description: This is a blog.
+description: This is a blog. It's Irwin's.
 paginate: 20
 google_analytics: UA-26580532-3
 permalink: /:year/:month/:day/:title/
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: "henry"
+# Jekyll Plugins Necessary for GH Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+exclude:
+ - docker-compose-publish.yml
+ - docker-compose.yml
+ - firebase.json
+ - .idea/
