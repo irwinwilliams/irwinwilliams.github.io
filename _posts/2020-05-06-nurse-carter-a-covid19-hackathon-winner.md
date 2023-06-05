@@ -3,6 +3,7 @@ title: "Nurse Carter - a COVID19 hackathon winner"
 date: "2020-05-06"
 tags: 
   - "nurse-carter"
+coverImage: "image.png"
 ---
 
 https://www.youtube.com/watch?v=iyLlVCzF\_6U

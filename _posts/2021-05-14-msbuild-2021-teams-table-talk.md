@@ -8,6 +8,7 @@ tags:
   - "microsoft-teams"
   - "table-talk"
   - "virtual-hallway"
+coverImage: "con044.jpg"
 ---
 
 https://twitter.com/\_achu/status/1385295862587297793?s=21

@@ -6,6 +6,7 @@ categories:
 tags: 
   - "microsoft-build"
   - "microsoft-teams"
+coverImage: "blog5-go-quarterbutactual-1.png"
 ---
 
 I've been playing with an idea in Microsoft Teams for a few months now. It hasn't yet borne fruit, but I've decided its time to move on, and maybe revisit it in a few more months with fresh eyes.
