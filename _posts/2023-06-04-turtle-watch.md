@@ -11,7 +11,10 @@ tags:
 coverImage: "img_8462.jpg"
 ---
 
-https://youtu.be/5djIDfrxHgs
+{% include youtube.html id="5djIDfrxHgs" %}
+
+[Red Lights on Turtle](https://youtu.be/5djIDfrxHgs).
+
 
 This tour guide was vibes.
 
