@@ -1,5 +1,5 @@
 excerpt_separator: ""
-pygments: true
+highlighter: rouge
 markdown: kramdown
 url: http://irwinwilliams.github.io
 title: Irwin Williams, a blog
