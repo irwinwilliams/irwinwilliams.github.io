@@ -15,7 +15,6 @@ coverImage: "img_8462.jpg"
 
 [Red Lights on Turtle](https://youtu.be/5djIDfrxHgs).
 
-
 This tour guide was vibes.
 
 In fact, it might be that every time I've gone to watch the turtles come in and do their thing, I've felt welcomed, informed and appreciative of the work done by the community.
@@ -38,7 +37,8 @@ Whenever I visit with these beautiful animals, my ideas settle on the 3rd point 
 
 Admittedly, I'm partly inspired by the work I see coming out of ETH Zurich in Switzerland:
 
-https://twitter.com/eth\_en/status/1660951778312040448?s=46&t=hLauqyU7kB89pDVy1JCEoQ
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The spectrum of innovations is broad. ETH Bachelor students had one year to implement their most original ideas.<br><br>Here is the article of one of the projects: 👇🐟<a href="https://t.co/FPgQ8UmPrw">https://t.co/FPgQ8UmPrw</a> <a href="https://twitter.com/hashtag/AutonomousTechnology?src=hash&amp;ref_src=twsrc%5Etfw">#AutonomousTechnology</a> <a href="https://twitter.com/hashtag/MarineBiodiversity?src=hash&amp;ref_src=twsrc%5Etfw">#MarineBiodiversity</a> <a href="https://twitter.com/hashtag/EnvironmentalScience?src=hash&amp;ref_src=twsrc%5Etfw">#EnvironmentalScience</a> <a href="https://t.co/aYAEOL0EFA">pic.twitter.com/aYAEOL0EFA</a></p>&mdash; ETH Zurich (@ETH_en) <a href="https://twitter.com/ETH_en/status/1660951778312040448?ref_src=twsrc%5Etfw">May 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 Imagine an undersea drone that can provide video tracking of leatherbacks automatically. Apart from that, if the turtles are tagged (all aren't but they try to do as many as possible), can I follow a specific one, maybe the one I take a photo of when I'm there? It's super easy to make up ideas or demand features, though.
 
