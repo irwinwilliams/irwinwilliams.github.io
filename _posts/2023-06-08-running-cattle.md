@@ -31,4 +31,8 @@ The first cow running away was icon for a server I was working with that didn't 
 
 Like with the second cow, I eventually got the work done, but not before understanding some the specific challenges with the first cow. I think this pets/cattle analogy is nice to talk about, but is much easier said than done.
 
-https://www.youtube.com/watch?v=mTrSeaWmJ-4
+{% include youtube.html id="mTrSeaWmJ-4" %}
+
+[The cows are ready for the road](https://www.youtube.com/watch?v=mTrSeaWmJ-4).
+
+
