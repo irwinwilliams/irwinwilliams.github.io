@@ -11,10 +11,10 @@ tags:
   - "vr"
 coverImage: "img_7589.jpg"
 ---
+{% include youtube.html id="avJgdp9fIms" %}
 
-https://www.youtube.com/watch?v=avJgdp9fIms
+[Finalists in an VR challenge in Trinidad and Tobago](https://www.youtube.com/watch?v=avJgdp9fIms)
 
-Finalists in an VR challenge in Trinidad and Tobago
 
 Explore Tobago - Underwater.
 
@@ -36,9 +36,10 @@ My ideas as a developer, experiences as a diver and curiosity about the work of 
 
 The result was **Explore Tobago - Underwater** - a prototype that let's you do just that. It's web-based, can be used with something as simple as a Google Cardboard and uses images from the Collection. The idea of "walking around" underwater, clicking on an interesting object and learning more and getting even a sense of that world is the core goal.
 
-https://www.youtube.com/watch?v=5CzmbRVGAIU
 
-Explore Tobago - Underwater. Proof of concept.
+{% include youtube.html id="5CzmbRVGAIU" %}
+
+[Explore Tobago - Underwater. Proof of concept](https://www.youtube.com/watch?v=5CzmbRVGAIU)
 
 This VR project made it all the way to the finals of the CARIRI competition. _The finals_. We didn't win. I was legit sour for a whole minute.
 
